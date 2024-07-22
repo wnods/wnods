@@ -48,12 +48,10 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/w01101111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w01101111" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wnods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wnods" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/wnods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wnods" height="30" width="40" /></a>
-<a href="https://instagram.com/w01101111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w01101111" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wnods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wnods" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/x/ffd700" height="30" alt="twitter logo" />
+<img width="12" /></a>
+<a href="https://stackoverflow.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/stackoverflow/ffd700" height="30" alt="twitter logo" />
+<img width="12" /></a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wnods&show_icons=true&theme=dark&locale=en&layout=compact" alt="wnods" /></p>
