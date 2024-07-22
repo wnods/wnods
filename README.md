@@ -38,8 +38,7 @@
 <img width="12" />
 <img src="https://cdn.simpleicons.org/qgis/ffd700" height="30" alt="qgis logo"  />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/matlab/ffd700" height="30" alt="pandas logo"  />
-<img width="12" />
+
 
 </div>
 
