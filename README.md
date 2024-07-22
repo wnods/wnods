@@ -14,6 +14,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/ffd700" height="30" alt="html5 logo"  />
   <img width="12" />
+
 </div>
 <h3 align="left">Frameworks and Library:</h3>
 <div alig="left">
@@ -25,6 +26,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/ffd700" height="30" alt="numpy logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/d3dotjs/ffd700" height="30" alt="d3js logo"  />
+  <img width="12" />
+
 </div>
 
 
