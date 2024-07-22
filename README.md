@@ -8,9 +8,14 @@
 <img width="12" />
 <img src="https://cdn.simpleicons.org/pytorch/ffd700" height="30" alt="pytorch logo" />
 <img width="12" />
- <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo" style="filter: brightness(0) saturate(100%) invert(88%) sepia(89%) saturate(2702%) hue-rotate(355deg) brightness(107%) contrast(104%);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" height="30" alt="matlab logo" style="filter: brightness(0) saturate(100%) invert(88%) sepia(89%) saturate(2702%) hue-rotate(355deg) brightness(107%) contrast(104%);" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30" style="filter: brightness(0) saturate(100%) invert(88%) sepia(89%) saturate(2702%) hue-rotate(355deg) brightness(107%) contrast(104%);" />
+<img src="https://cdn.simpleicons.org/tensorflow/ffd700" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+<img src="https://cdn.simpleicons.org/pandas/ffd700" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/ffd700" height="30" alt="numpy logo"  />
+</div>
+
+
 
 
 
