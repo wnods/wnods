@@ -8,9 +8,7 @@
 <img width="12" />
 <img src="https://cdn.simpleicons.org/pytorch/ffd700" height="30" alt="pytorch logo" />
 <img width="12" />
- <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24">
-    <path fill="#ffd700" d="M1.292 5.856L11.54 0v24l-4.095-2.378V7.603l-6.168 3.564l.015-5.31zm21.43 5.311l-.014-5.31L12.46 0v24l4.095-2.378V14.87l3.092 1.788l-.018-4.618l-3.074-1.756V7.603z" />
-</svg>
+ <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMCIgaGVpZ2h0PSIzMCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgIDxwYXRoIGZpbGw9IiNmZmQ3MDAiIGQ9Ik0xLjI5MiA1Ljg1NkwxMS41NCAwdjI0bC00LjA5NS0yLjM3OFY3LjYwM2wtNi4xNjggMy41NjRsLjAxNS01LjMxeiIgLz4KICAgIDxwYXRoIGQ9Ik0yMi42MjIgMTEuMTY3bC0uMDE0LTUuMzFMMTIuNDYgMHYyNGw0LjA5NS0yLjM3OFYxNC44N2wzLjA5MiAxLjc4OGwtLjAxOC00LjYxOGwtMy4wNzQtMS43NTZWNy42MDN6IiAvPgo8L3N2Zz4=" alt="custom svg" width="12" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" height="30" alt="matlab logo" />
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30"/>
