@@ -14,8 +14,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/ffd700" height="30" alt="html5 logo"  />
   <img width="12" />
-
 </div>
+
 <h3 align="left">Frameworks and Library:</h3>
 <div alig="left">
 <img src="https://cdn.simpleicons.org/pytorch/ffd700" height="30" alt="pytorch logo" />
@@ -38,20 +38,17 @@
 <img width="12" />
 <img src="https://cdn.simpleicons.org/qgis/ffd700" height="30" alt="qgis logo"  />
 <img width="12" />
-
-
 </div>
 
-
-
-
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/x/ffd700" height="30" alt="twitter logo" />
 <img width="12" /></a>
-<a href="https://stackoverflow.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/stackoverflow/ffd700" height="30" alt="twitter logo" />
+<a href="https://stackoverflow.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/stackoverflow/ffd700" height="30" alt="stck logo" />
 <img width="12" /></a>
+<a href="https://instagram.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/instagran/ffd700" height="30" alt="instagram logo" />
+<img width="12" /></a>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wnods&show_icons=true&theme=dark&locale=en&layout=compact" alt="wnods" /></p>
