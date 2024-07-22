@@ -4,9 +4,9 @@
 
 <h2 align="left">I Coding in: </h2>
 <div alig="left">
- <img src="https://cdn.simpleicons.org/python/000000" height="30" alt="python logo" />
+ <img src="https://cdn.simpleicons.org/python/ffd700" height="30" alt="python logo" />
 <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="pytorch logo"  />
+  <img src="https://cdn.simpleicons.org/pytorch/ffd700" height="30" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
   <img width="12" />
