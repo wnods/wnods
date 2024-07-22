@@ -13,7 +13,9 @@
   <img src="https://cdn.simpleicons.org/pandas/ffd700" height="30" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/ffd700" height="30" alt="numpy logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/ffd700" height="30" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/ffd700" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/ffd700" height="30" alt="react logo"  />
