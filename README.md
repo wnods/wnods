@@ -1,8 +1,8 @@
 <h1 align="center"> Hi, I'm Will Oliveira.</h1>
-<p align="left"> - I am Graduate student in geophysics-based Seismic in the group of Profa. Dra. Ellen de Nazaré at Federal University of Pará, on the Processing Seismic Analysis Lab. My interests are analysis seismic, differentiable numerical simulators, machine learning, modelling, automatic differentiation, and optimization theory.</p>
-<p align="left">-  Check out my <a href="wnods.github.io/Portfolio/">Website</a> Portifolio</p>
+<p align="left"> I am Graduate student in Geophysics-based Processing Seismic in the group of Profa. Dra. Ellen de Nazaré at Federal University of Pará (UFPA), on the Processing Seismic Analysis Laboratory (ProSisLab) My interests are processing and analysis seismic, differentiable numerical simulators, machine learning, modelling numerical, automatic differentiation, and optimization theory.</p>
+<p align="left"> 👉 Check out my <a href="wnods.github.io/Portfolio/">Website</a> Portifolio</p>
 
-<h2 align="left">I Coding in: </h2>
+<h2 align="left"> 🧑‍💻​ I Coding in: </h2>
 <div alig="left">
   <img src="https://cdn.simpleicons.org/python/ffd700" height="30" alt="python logo" />
   <img width="12" />
@@ -16,7 +16,7 @@
   <img width="12" />
 </div>
 
-<h3 align="left">Frameworks and Library:</h3>
+<h3 align="left"> 📚 Frameworks and Library:</h3>
 <div alig="left">
 <img src="https://cdn.simpleicons.org/pytorch/ffd700" height="30" alt="pytorch logo" />
 <img width="12" />
@@ -46,7 +46,7 @@
 <img width="12" /></a>
 <a href="https://stackoverflow.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/stackoverflow/ffd700" height="30" alt="stck logo" />
 <img width="12" /></a>
-<a href="https://instagram.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/instagran/ffd700" height="30" alt="instagram logo" />
+<a href="https://instagram.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/instagram/ffd700" height="30" alt="instagram logo" />
 <img width="12" /></a>
 
 
