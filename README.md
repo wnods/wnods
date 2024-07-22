@@ -4,9 +4,6 @@
 
 <h2 align="left">I Coding in: </h2>
 <div alig="left">
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="pytorch logo"  />
@@ -17,9 +14,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30"/>
   <img width="12" />
-
-
   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/w01101111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w01101111" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wnods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wnods" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/wnods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wnods" height="30" width="40" /></a>
