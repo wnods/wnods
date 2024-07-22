@@ -21,12 +21,14 @@
 <img src="https://cdn.simpleicons.org/pytorch/ffd700" height="30" alt="pytorch logo" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/tensorflow/ffd700" height="30" alt="tensorflow logo"  />
-  <img width="12" />
+  <img width="12"
   <img src="https://cdn.simpleicons.org/pandas/ffd700" height="30" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/ffd700" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/d3dotjs/ffd700" height="30" alt="d3js logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/ffd700" height="30" alt="scikitlearn logo"  />
   <img width="12" />
 
 </div>
