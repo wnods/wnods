@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Will Oliveira.</h1>
+<h1 align="center"> Hi, I'm Wilson Oliveira.</h1>
 <p align="left"> I am Graduate student in Geophysics-based Processing Seismic in the group of Profa. Dra. Ellen de Nazaré at Federal University of Pará (UFPA), on the Processing Seismic Analysis Laboratory (ProSisLab) My interests are processing and analysis seismic, differentiable numerical simulators, machine learning, modelling numerical, automatic differentiation, and optimization theory.</p>
 <p align="left"> 👉 Check out my <a href="wnods.github.io/Portfolio/">Website</a> Portifolio</p>
 
