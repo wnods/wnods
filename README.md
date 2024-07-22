@@ -24,6 +24,8 @@
 <img width="12" />
 <img src="https://cdn.simpleicons.org/pandas/ffd700" height="30" alt="pandas logo"  />
 <img width="12" />
+<img src="https://cdn.simpleicons.org/geopandas/ffd700" height="30" alt="pandas logo"  />
+<img width="12" />
 <img src="https://cdn.simpleicons.org/numpy/ffd700" height="30" alt="numpy logo"  />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/d3dotjs/ffd700" height="30" alt="d3js logo"  />
@@ -33,6 +35,10 @@
 <img src="https://cdn.simpleicons.org/git/ffd700" height="30" alt="git logo"  />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/django/ffd700" height="30" alt="django logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/qgis/ffd700" height="30" alt="qgis logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/matlab/ffd700" height="30" alt="pandas logo"  />
 <img width="12" />
 
 </div>
