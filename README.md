@@ -30,6 +30,10 @@
 <img width="12" />
 <img src="https://cdn.simpleicons.org/scikitlearn/ffd700" height="30" alt="scikitlearn logo"  />
 <img width="12" />
+<img src="https://cdn.simpleicons.org/git/ffd700" height="30" alt="git logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/django/ffd700" height="30" alt="django logo"  />
+<img width="12" />
 
 </div>
 
