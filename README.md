@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Will Oliveira.</h1>
-<p align="left"> I am Graduate student in geophysics-based Seismic in the group of Profa. Dra. Ellen de Nazaré at Federal University of Pará, on the Processing Seismic Analysis Lab. My interests are analysis seismic, differentiable numerical simulators, machine learning, automatic differentiation, and optimization theory.</p>
+<p align="left"> I am Graduate student in geophysics-based Seismic in the group of Profa. Dra. Ellen de Nazaré at Federal University of Pará, on the Processing Seismic Analysis Lab. My interests are analysis seismic, differentiable numerical simulators, machine learning, modelling, automatic differentiation, and optimization theory.</p>
 
 
 <h3 align="left">Connect with me:</h3>
