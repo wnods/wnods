@@ -43,7 +43,7 @@
 
 
 #
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/x/ffd700" height="30" alt="twitter logo" />
 <img width="12" /></a>
