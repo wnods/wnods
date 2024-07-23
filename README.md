@@ -1,5 +1,7 @@
 <h1 align="center"> Hi, I'm Wilson Oliveira.</h1>
-<p align="left"> I am undergraduate student in Geophysics based Processing Seismic in the group of Dr. Ellen de Nazaré (PhD) at Federal University of Pará (UFPA), on the Processing Seismic Analysis Laboratory (ProSisLab). My interests are processing and analysis seismic, differentiable numerical simulators, machine learning, numerical modelling, automatic differentiation, and optimization theory.</p>
+<p align="left"> I'm an undergraduate student in Geophysics focusing on Seismic Processing in the group of Dr. Ellen de Nazaré, PhD, at the Federal University of Pará (UFPA), within the Seismic Processing Analysis Laboratory (ProSisLab). I'm also a researcher at INCT of Criosfera and a CNPq scholarship holder.
+
+My interests include seismic processing and analysis, differentiable numerical simulators, machine learning, numerical modeling, automatic differentiation, and optimization theory.</p>
 <p align="left"> 👉 Check out my <a href="wnods.github.io/Portfolio/">Website</a> Portifolio</p>
 
 <h2 align="left"> 🧑‍💻​ I Coding in: </h2>
