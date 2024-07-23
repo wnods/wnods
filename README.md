@@ -2,7 +2,7 @@
 <p align="left"> I'm an undergraduate student in Geophysics focusing on Seismic Processing in the group of Dr. Ellen de Nazaré, PhD, at the Federal University of Pará (UFPA), within the Seismic Processing Analysis Laboratory (ProSisLab). I'm also a researcher at INCT of Criosfera and a CNPq scholarship holder.
 
 My interests include seismic processing and analysis, differentiable numerical simulators, machine learning, numerical modeling, automatic differentiation, and optimization theory.</p>
-<p align="left"> 👉 Check out my <a href="wnods.github.io/Portfolio/">Website</a> Portifolio</p>
+<p align="left"> 👉 Check out my <a href="https://wnods.github.io/Portfolio/">Website</a> Portifolio</p>
 
 <h2 align="left"> 🧑‍💻​ I Coding in: </h2>
 <div alig="left">
