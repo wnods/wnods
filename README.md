@@ -8,6 +8,8 @@ My interests include seismic processing and analysis, differentiable numerical s
 <div alig="left">
   <img src="https://cdn.simpleicons.org/python/ffd700" height="30" alt="python logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/julia/ffd700" height="30" alt="python logo" />
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/ffd700" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/ffd700" height="30" alt="javascript logo"  />
