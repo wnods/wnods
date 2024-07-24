@@ -49,11 +49,11 @@ My interests include seismic processing and analysis, differentiable numerical s
 #
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/x/ffd700" height="30" alt="twitter logo" />
+<a href="https://twitter.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/x/d5ad72" height="30" alt="twitter logo" />
 <img width="12" /></a>
-<a href="https://stackoverflow.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/stackoverflow/ffd700" height="30" alt="stck logo" />
+<a href="https://stackoverflow.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/stackoverflow/d5ad72" height="30" alt="stck logo" />
 <img width="12" /></a>
-<a href="https://instagram.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/instagram/ffd700" height="30" alt="instagram logo" />
+<a href="https://instagram.com/w01101111" target="blank"><img align="center" <img src="https://cdn.simpleicons.org/instagram/d5ad72" height="30" alt="instagram logo" />
 <img width="12" /></a>
 
 #
