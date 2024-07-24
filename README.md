@@ -6,8 +6,8 @@ My interests include seismic processing and analysis, differentiable numerical s
 
 <h2 align="left"> 🧑‍💻​ I Coding in: </h2>
 <div alig="left">
-  <img src="https://cdn.simpleicons.org/python/ffd700" height="30" alt="python logo" />
-  <img width="12" />
+   <img src="https://cdn.simpleicons.org/python/d5ad72" height="30" alt="python" title="Python" />
+              <div class="tooltiptext">Python</div> 
   <img src="https://cdn.simpleicons.org/julia/ffd700" height="30" alt="python logo" />
    <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/ffd700" height="30" alt="cplusplus logo"  />
