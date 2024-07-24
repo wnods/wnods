@@ -7,41 +7,41 @@ My interests include seismic processing and analysis, differentiable numerical s
 <h2 align="left"> 🧑‍💻​ I Coding in: </h2>
 <div alig="left">
    <img src="https://cdn.simpleicons.org/python/d5ad72" height="30" alt="python" title="Python" />
-              <div class="tooltiptext">Python</div> 
-  <img src="https://cdn.simpleicons.org/julia/ffd700" height="30" alt="python logo" />
+    <img widht="12" />
+  <img src="https://cdn.simpleicons.org/julia/d5ad72" height="30" alt="julia logo" title="Julia" />
    <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/ffd700" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.simpleicons.org/c++/d5ad72" height="30" alt="cplusplus logo" title="C++"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/ffd700" height="30" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/d5ad72" height="30" alt="javascript logo" title="JavaScript"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/ffd700" height="30" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/react/d5ad72" height="30" alt="react logo" title="React"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/ffd700" height="30" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/d5ad72" height="30" alt="html5 logo" title="HTML" />
   <img width="12" />
 </div>
 
 
 <h3 align="left"> 📚 Frameworks and Library:</h3>
 <div alig="left">
-<img src="https://cdn.simpleicons.org/pytorch/ffd700" height="30" alt="pytorch logo" />
+<img src="https://cdn.simpleicons.org/pytorch/d5ad72" height="30" alt="pytorch logo" title="PyTorch"/>
 <img width="12" />
-<img src="https://cdn.simpleicons.org/tensorflow/ffd700" height="30" alt="tensorflow logo"  />
+<img src="https://cdn.simpleicons.org/tensorflow/d5ad72" height="30" alt="tensorflow logo" title="TensorFlow"  />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/pandas/ffd700" height="30" alt="pandas logo"  />
+<img src="https://cdn.simpleicons.org/pandas/d5ad72" height="30" alt="pandas logo" title="Pandas"  />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/geopandas/ffd700" height="30" alt="pandas logo"  />
+<img src="https://cdn.simpleicons.org/geopandas/d5ad72" height="30" alt="pandas logo" title="Geopandas"/>
 <img width="12" />
-<img src="https://cdn.simpleicons.org/numpy/ffd700" height="30" alt="numpy logo"  />
+<img src="https://cdn.simpleicons.org/numpy/d5ad72" height="30" alt="numpy logo"  title="Numpy" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/d3dotjs/ffd700" height="30" alt="d3js logo"  />
+<img src="https://cdn.simpleicons.org/d3dotjs/d5ad72" height="30" alt="d3js logo" title="D3.js" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/scikitlearn/ffd700" height="30" alt="scikitlearn logo"  />
+<img src="https://cdn.simpleicons.org/scikitlearn/d5ad72" height="30" alt="scikitlearn logo" title="Scikit-Learn" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/git/ffd700" height="30" alt="git logo"  />
+<img src="https://cdn.simpleicons.org/git/d5ad72" height="30" alt="git logo"  title="Git" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/django/ffd700" height="30" alt="django logo"  />
+<img src="https://cdn.simpleicons.org/django/d5ad72" height="30" alt="django logo" title="Django" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/qgis/ffd700" height="30" alt="qgis logo"  />
+<img src="https://cdn.simpleicons.org/qgis/d5ad72" height="30" alt="qgis logo"  title="QGis" />
 <img width="12" />
 </div>
 
