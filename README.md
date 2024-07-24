@@ -6,18 +6,18 @@ My interests include seismic processing and analysis, differentiable numerical s
 
 <h2 align="left"> 🧑‍💻​ I Coding in: </h2>
 <div alig="left">
-   <img src="https://cdn.simpleicons.org/python/d5ad72" height="30" alt="python" title="Python" />
+ <img src="https://cdn.simpleicons.org/python/d5ad72" height="30" alt="python" title="Python" />
     <img widht="12" />
   <img src="https://cdn.simpleicons.org/julia/d5ad72" height="30" alt="julia logo" title="Julia" />
    <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/d5ad72" height="30" alt="cplusplus logo" title="C++"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/d5ad72" height="30" alt="javascript logo" title="JavaScript"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/d5ad72" height="30" alt="react logo" title="React"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/d5ad72" height="30" alt="html5 logo" title="HTML" />
-  <img width="12" />
+   <img width="12" />
 </div>
 
 
