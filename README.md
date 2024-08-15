@@ -8,13 +8,13 @@ My interests include seismic processing and analysis, differentiable numerical s
 <div alig="left">
  <img src="https://cdn.simpleicons.org/python/d5ad72" height="30" alt="python" title="Python" />
     <img widht="12" />
+ <img src="https://cdn.simpleicons.org/fortran/d5ad72" height="30" alt="fortran" title="Fortran" />
+    <img widht="12" />
   <img src="https://cdn.simpleicons.org/julia/d5ad72" height="30" alt="julia logo" title="Julia" />
    <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/d5ad72" height="30" alt="cplusplus logo" title="C++"  />
    <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/d5ad72" height="30" alt="javascript logo" title="JavaScript"  />
-   <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/d5ad72" height="30" alt="react logo" title="React"  />
    <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/d5ad72" height="30" alt="html5 logo" title="HTML" />
    <img width="12" />
@@ -42,6 +42,8 @@ My interests include seismic processing and analysis, differentiable numerical s
 <img src="https://cdn.simpleicons.org/django/d5ad72" height="30" alt="django logo" title="Django" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/qgis/d5ad72" height="30" alt="qgis logo"  title="QGis" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/react/d5ad72" height="30" alt="react logo" title="React"  />
 <img width="12" />
 </div>
 
