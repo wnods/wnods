@@ -4,7 +4,7 @@
 My interests include seismic processing and analysis, differentiable numerical simulators, machine learning, numerical modeling, automatic differentiation, and optimization theory.</p>
 <p align="left"> 👉 Check out my <a href="https://wnods.github.io/Portfolio/">Website</a> Portifolio</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wnods&show_icons=true&locale=en&layout=black" alt="wnods" /></p>
+
 
 
 
